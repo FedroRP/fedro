@@ -2,20 +2,20 @@
   <img src="https://i.pinimg.com/originals/79/dc/c4/79dcc47ea8d1563d2869647014cb86fe.gif" alt="Lutfi Julpian" style="margin-bottom: 20px;" />
 </h1>
 <h1 align="center"> 
-  Hi 👋, I'm Lutfi Julpian
+  Hi 👋, I'm Fedro Rizkyana Padila
 </h1>
 
 <h3 align="center">🚀 Passionate Data Scientist | Lifelong Learner | Innovator from Indonesia</h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=lutfijulpian&label=Profile%20views&color=blue&style=plastic" alt="lutfijulpian" /> 
+  <img src="https://komarev.com/ghpvc/?username=lutfijulpian&label=Profile%20views&color=blue&style=plastic" alt="fedro" /> 
 </p>
 
 - 🌱 **Currently Exploring:** Deep Learning & Kotlin  
 - 🤝 **Collaborating with:** [Maetala Scientist](#)  
 - 💬 **Ask Me About:** Machine Learning & Data Science  
-- 📫 **Reach Me At:** lutfijulpian@gmail.com
-- 🐸 **My Portfolio:** https://lutfijulpian.netlify.app/
+- 📫 **Reach Me At:** pedropadila456@gmail.com
+- 🐸 **My Portfolio:** https://fedropadila.netlify.app/
 
 ---
 
