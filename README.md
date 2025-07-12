@@ -1,5 +1,5 @@
 <h1 align="center">
-    <iframe src="https://assets.pinterest.com/ext/embed.html?id=593912269649289655" height="359" width="345" frameborder="0" scrolling="no" ></iframe>
+      <img src="https://assets.pinterest.com/ext/embed.html?id=593912269649289655" alt="Lutfi Julpian" style="margin-bottom: 20px;" />
 </h1>
 <h1 align="center"> 
   Hi 👋, I'm Fedro Rizkyana Padila
