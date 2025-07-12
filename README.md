@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="[https://i.pinimg.com/originals/79/dc/c4/79dcc47ea8d1563d2869647014cb86fe.gif](https://pin.it/2R1FtFY4Q)" alt="Fedro Rizkyana Padila" style="margin-bottom: 20px;" />
+  <img src="https://i.pinimg.com/originals/79/dc/c4/79dcc47ea8d1563d2869647014cb86fe.gif" alt="Fedro Rizkyana Padila" style="margin-bottom: 20px;" />
 </h1>
 <h1 align="center"> 
   Hi 👋, I'm Fedro Rizkyana Padila
