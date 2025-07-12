@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://pin.it/3uul0bCQE" alt="Fedro Rizkyana Padila" style="margin-bottom: 20px;" />
+  <iframe src="https://assets.pinterest.com/ext/embed.html?id=47358233577559441" height="295" width="345" frameborder="0" scrolling="no" ></iframe>
 </h1>
 <h1 align="center"> 
   Hi 👋, I'm Fedro Rizkyana Padila
