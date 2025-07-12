@@ -69,8 +69,8 @@
 
 <h3 align="center">📊 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fedrorizkyanapadila&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fedrorizkyanapadila&show_icons=true&theme=radical&layout=compact" alt="Top Languages" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=FedroRP&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langsusername=FedroRP&show_icons=true&theme=radical&layout=compact" alt="Top Languages" width="400"/>
 </p>
 
 ---
